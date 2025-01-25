@@ -19,7 +19,7 @@ Are you tired of wondering if your meals are as balanced as they seem? Tracking 
 ### The Solution
 BalanceBite simplifies nutrition tracking by analyzing your meals and workouts to provide clear, personalized recommendations for a healthier diet.
 
-##Technical Details
+## Technical Details
 ---
 ###Technologies/Components Used
 
