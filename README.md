@@ -22,11 +22,48 @@ BalanceBite simplifies nutrition tracking by analyzing your meals and workouts t
 ## Technical Details
 ### Technologies/Components Used
 
-**Language Used** : 
-**Framework Used** :
-**Libraries Used**:
-**Tools Used**:
+**Language Used** : HTML,CSS,JavaScript
+**Frameworks Used** :  
+**Tools Used**:ChatGPT, Git, VSCode, App Script
 
 ### Implementation
+## Installation
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/BalanceBite.git
+    cd BalanceBite
+2. **Install dependencies:**
+    ```bash
+    npm install
+3. **Start the development server:**
+   ```bash
+   npm start
+## Run
+1. **Development mode:**
+   ```bash
+   npm start
+3. **Build for production:**
+   ```bash
+   npm run build
+
+#### Project Documentation
+
+## Screenshots
 
 
+
+## Diagrams
+
+## Build Photos
+
+
+#### Project Demo
+
+## Video
+
+## Additional Demos
+
+###Team Contributions
+* Sneha D: Led the web development, building and integrating the website's core features.
+* Karunya S: Focused on designing the user interface to ensure a seamless and engaging user experience.
+* Mihikka S: Responsible for analyzing the problem and creating flowcharts to guide the development process.
