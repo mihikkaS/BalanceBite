@@ -49,7 +49,7 @@ BalanceBite simplifies nutrition tracking by analyzing your meals and workouts t
 #### Project Documentation
 
 ## Screenshots
-
+images/projectimg.jpg
 
 
 ## Diagrams
